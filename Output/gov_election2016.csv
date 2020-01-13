@@ -1,51 +1,57 @@
-State,Party of governor
-Alabama,Republican
-Alaska,Republican
-Arizona,Republican
-Arkansas,Republican
-California,Democratic
-Colorado,Democratic
-Connecticut,Democratic
-Delaware,Democratic
-Florida,Republican
-Georgia,Republican
-Hawaii,Democratic
-Idaho,Republican
-Illinois,Democratic
-Indiana,Republican
-Iowa,Republican
-Kansas,Democratic
-Kentucky,Democratic
-Louisiana,Democratic
-Maine,Democratic
-Maryland,Republican
-Massachusetts,Republican
-Michigan,Democratic
-Minnesota,Democratic
-Mississippi,Republican
-Missouri,Republican
-Montana,Democratic
-Nebraska,Republican
-Nevada,Democratic
-New Hampshire,Republican
-New Jersey,Democratic
-New Mexico,Democratic
-New York,Democratic
-North Carolina,Democratic
-North Dakota,Republican
-Ohio,Republican
-Oklahoma,Republican
-Oregon,Democratic
-Pennsylvania,Democratic
-Rhode Island,Democratic
-South Carolina,Republican
-South Dakota,Republican
-Tennessee,Republican
-Texas,Republican
-Utah,Republican
-Vermont,Republican
-Virginia,Democratic
-Washington,Democratic
-West Virginia,Republican
-Wisconsin,Democratic
-Wyoming,Republican
+State,Party
+Alabama,R
+Alaska,R
+American Samoa,R
+Arizona,R
+Arkansas,R
+California,D
+Colorado,D
+Connecticut,D
+Delaware,D
+District of Columbia,D
+Florida,R
+Georgia,R
+Guam,D
+Hawaii,D
+Idaho,R
+Illinois,D
+Indiana,R
+Iowa,R
+Kansas,R
+Kentucky,R
+Louisiana,R
+Maine,D
+Maryland,D
+Massachusetts,D
+Michigan,R
+Minnesota,D
+Mississippi,R
+Missouri,R
+Montana,R
+Nebraska,R
+Nevada,D
+New Hampshire,D
+New Jersey,D
+New Mexico,D
+New York,D
+North Carolina,R
+North Dakota,R
+Northern Mariana Islands,I
+Ohio,R
+Oklahoma,R
+Oregon,D
+Pennsylvania,R
+Puerto Rico,I
+Rhode Island,D
+South Carolina,R
+South Dakota,R
+Tennessee,R
+Texas,R
+Utah,R
+Vermont,D
+Virgin Islands,D
+Virginia,D
+Washington,D
+West Virginia,R
+Wisconsin,R
+Wyoming,R
